@@ -116,7 +116,7 @@ One thing to note though, the models took comparatively lesser time to train wit
 
 
 ## Link to Notebook:
-[Explore Coupon Acceptance Factors by Customers](https://github.com/nbajam/BH-PCAIML-project/blob/main/bh_pcaiml_project_final.ipynb)
+[Explore Coupon Acceptance Factors by Customers](https://github.com/nbajam/BH-PCAIML-MOD17-PAA3/blob/main/bh_pcaiml_mod17_prac_assign.ipynb)
 
 ## Data Used:
 [In-Vehicle Coupon Recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
